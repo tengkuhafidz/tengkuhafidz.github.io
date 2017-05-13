@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.header {
+  font-size: 5em;
+}
+
+#venues {
+  margin-top: 5%;
+  text-align: left;
+}
+
+body {
+  background: #F1F1F1; /* For browsers that do not support gradients */
+
+}
